@@ -1,0 +1,11 @@
+Pasajeros
+
+name:string;
+email:string;
+
+Vuelos
+piloto: string;
+avios: string;
+ciudadDestino:string;
+fechaVuelo:Date;
+
